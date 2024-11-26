@@ -1,6 +1,7 @@
 # StudentTracker
 
 StudentTracker is a lightweight activity tracking program for Windows laptops, designed specifically for use in educational settings. It allows teachers to monitor student activity on school laptops, ensuring that the devices are used appropriately during school hours.
+The ahk source has to be compiled to an exe (ahk2exe) to work propperly.
 
 ## Features
 
